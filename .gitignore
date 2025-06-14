@@ -1,0 +1,10 @@
+# Ignore MPLAB build outputs
+Blinking_LED.X/dist/
+Blinking_LED.X/build/
+*.hex
+*.o
+*.elf
+
+# Ignore Proteus temp files
+*.bak
+*.tmp
